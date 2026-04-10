@@ -25,9 +25,9 @@
 - Планировщик LR: ReduceLROnPlateau
 - Аугментация: HorizontalFlip, VerticalFlip, RandomRotate90
 
-## Веса моделей: лучшие по метрикам (best.pth) и финальные (last.pth)
+## Веса моделей:
 
-*Ссылка будет добавлена позже*
+https://vk.com/away.php?to=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1-cLjAVSxjW8YMljtZmT4kwbDoRuz7l6Q%3Fusp%3Ddrive_link&utf=1
 
 ## Таблицы с метриками по эпохам
 
