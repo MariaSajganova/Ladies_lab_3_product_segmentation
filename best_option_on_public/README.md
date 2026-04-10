@@ -31,8 +31,8 @@ https://vk.com/away.php?to=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1-
 
 ## Таблицы с метриками по эпохам
 
-*Будут добавлены после загрузки на Kaggle*
+х
 
 ## Графики обучения
 
-*Будут добавлены после загрузки на Kaggle*
+х
